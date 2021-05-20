@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Find Delivery Man</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_delivery">Find Delivery Man</string>
+    <string name="buttonRegistrar">Registro</string>
+    <string name="ButtonRegistrar">Registrar</string>
+</resources>
